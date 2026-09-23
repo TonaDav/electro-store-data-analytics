@@ -1,4 +1,4 @@
-# Electrore - Análisis de Datos con SQL
+# Electrostore - Análisis de Datos con SQL
 
 Realizo consultas a la base de datos relacional de Electro Store, una cadena ficticia de tiendas de electrónica y robótica, el cual tiene presencia en 5 ciudades del país y un canal de ventas online, con el objetivo de realizar un análisis de los datos y generar insights valiosos acerca del desempeño entre Enero 2024 y Diciembre 2026. Este es un proyecto de portafolio para mis prácticas preprofesionales en Análisis de Datos e Inteligencia Artificial.
 
